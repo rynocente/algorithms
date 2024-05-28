@@ -6,6 +6,8 @@ Some algorithms in Java and Javascript :knife: :knife: :black_heart:
 
 
 O(1)
+
 O(log N)
+
 O(N)
 
