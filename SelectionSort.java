@@ -13,7 +13,7 @@ public class SelectionSort {
      * @param data
      * @return array
      */
-    static int[] order(int[] data) {
+    public static int[] order(int[] data) {
 
         for (int i = 0; i < data.length - 1; i++) {
             int theLowestIndex = i;
