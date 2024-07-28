@@ -1,5 +1,6 @@
 array1 = ["a","b","c","d","e","f"];
-array2 = ["b","d","f"];
+array2 = ["b","d","f"]; //true
+//array2 = ["b","d","f","f"]; //false
 
 let rpta = isSubset(array1, array2);
 console.log("rpta: " + rpta);
